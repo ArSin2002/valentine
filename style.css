@@ -1,0 +1,24 @@
+.GIF{
+    /* display: block; */
+    margin-top: auto;
+    margin-left:800px;
+    margin-right:auto;
+    height: 250px;
+    width: 250px;;
+}
+
+.inner{
+    margin-left:810px;
+    height:auto;
+}
+
+.no{
+    margin-left:40px;
+    height:auto;
+    width:auto;
+}
+
+.txt{
+    margin-top:200px;
+    margin-left:650px;
+}
